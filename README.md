@@ -19,7 +19,7 @@ This Home Assistant add-on provides a service to fetch PDFs from external endpoi
 
 1. Add this repository to your Home Assistant add-on store:
    ```
-   https://github.com/arest/cups-client-addon
+   https://github.com/lukasklinger/cups-client-addon
    ```
 
 2. Install the "CUPS Client Add-on" from the add-on store
